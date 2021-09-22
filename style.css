@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+/* background in Css */
+/* how to set background color and image in css */
+
+/* .bg{
+    height: 100vh;
+    background-color: rgba(0,0,0,0.3);
+} */
+
+/* .bg{
+    height: 100vh;
+    background: url(css.png) no-repeat fixed center;
+} */
+h1{
+  
+} 
+.bg{
+    height: 100vh;
+ background: rgb(115, 255, 0) url(transparent.gif) no-repeat center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------Border in Css----------------- */
+/* h1{
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+} */
+ /* h1{
+     border: 10px solid #fff111;
+     border-top: 10px solid green;
+     border-radius: 12px;
+ } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background: rgba(0,0,0,0.8);
+}
+
+p{
+    color: #019fbd;
+}
+.paragraph{
+    color: red;
+} */
+/* #paragraph-1{
+    color: blue; 
+    color: rgb(255, 255, 255);
+    color: #019fbd;
+    color: hsl(90, 150%, 200%);
+    color: hsla(90, 180%, 200%, 0.1)
+} */
+/* high priority ID then Class------>then element tag */
+
+/* predefine color names -----> red , green and so on */
+
+/* RGB(red green blue)0 to 255 */
+
+/* RGBA(red green blue , Alpha) 0.1 to 1.0 */
+
+/* HEX(#rrggbb) */
+
+/* HSL(hue, saturation, lightness) 0 to 360  percentage*/ 
+/* HSLA(hue, saturation, lightness and alpha) 0.1 to 1.0  */
